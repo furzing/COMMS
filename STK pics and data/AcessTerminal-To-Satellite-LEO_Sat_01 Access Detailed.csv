@@ -1,0 +1,11 @@
+"Object","Constraint","Value"
+"Facility-Facility1","LineOfSight","N/A"
+"Facility-Facility1","ElevationAngle","Min  1.0000000000e+01"
+
+"Access","Start Time (UTCG)","Stop Time (UTCG)","Duration (sec)","Start Constraint","Stop Constraint","From Start Lat (deg)","From Start Lon (deg)","From Start Alt (km)","From Stop Lat (deg)","From Stop Lon (deg)","From Stop Alt (km)","From Pass","To Start Lat (deg)","To Start Lon (deg)","To Start Alt (km)","To Stop Lat (deg)","To Stop Lon (deg)","To Stop Alt (km)","To Pass"
+1,16 Jun 2026 08:10:54.426,16 Jun 2026 08:18:21.627,447.200,"Facility1 - ElevationAngle","Facility1 - ElevationAngle",51.050,13.737,-0.000000,51.050,13.737,-0.000000,"N/A",37.091,5.612,557.738967,51.222,38.015,562.956413,"6"
+2,16 Jun 2026 09:49:44.121,16 Jun 2026 09:58:09.064,504.943,"Facility1 - ElevationAngle","Facility1 - ElevationAngle",51.050,13.737,-0.000000,51.050,13.737,-0.000000,"N/A",44.468,-6.639,560.451814,53.088,38.328,563.632282,"7"
+3,16 Jun 2026 11:29:32.196,16 Jun 2026 11:37:54.065,501.868,"Facility1 - ElevationAngle","Facility1 - ElevationAngle",51.050,13.737,-0.000000,51.050,13.737,-0.000000,"N/A",51.216,-10.540,562.954125,49.474,37.419,562.314327,"8"
+4,16 Jun 2026 13:09:13.341,16 Jun 2026 13:17:34.373,501.032,"Facility1 - ElevationAngle","Facility1 - ElevationAngle",51.050,13.737,-0.000000,51.050,13.737,-0.000000,"N/A",53.111,-10.857,563.640766,41.816,31.226,559.465053,"9"
+5,16 Jun 2026 14:49:20.842,16 Jun 2026 14:55:35.976,375.135,"Facility1 - ElevationAngle","Facility1 - ElevationAngle",51.050,13.737,-0.000000,51.050,13.737,-0.000000,"N/A",49.082,-9.773,562.169649,35.994,15.456,557.348107,"10"
+
